@@ -32,7 +32,7 @@ The __RadGallery__ is a special type of __ListBox__ (it derives from __ListBox__
 
 >tip When you want to declare a ribbon gallery inside a [RadRibbonDropDownButton]({%slug radribbonview-dropdown-button%})/[RadRibbonSplitButton]({%slug radribbonview-split-button%}) use the __RadGallery__ class.		  
 
->tip When you use the __RadGallery__ class, you __should always specify__ the __ViewportWidht__ and __ViewportHeight__ properties.		  
+>tip When you use the __RadGallery__ class, you __should always specify__ the __ViewportWidth__ and __ViewportHeight__ properties.		  
 
 The __RadRibbonGallery__ is a special type of gallery (it derives from __RadGallery__ class), that is designed to be hosted directly in a __RadRibbonControl__. Like the normal __RadGallery__, it has __Viewport Width\Height__ and __Item Width\Height__. However, the viewport is constrained to the size of the ribbon itself.		
 
